@@ -43,4 +43,15 @@
         android:layout_weight="0.2"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="273dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:textColor="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SELECT IMAGE"
+        android:onClick="selectImage"
+        android:layout_weight="0.2"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="273dp" />
 </LinearLayout>
